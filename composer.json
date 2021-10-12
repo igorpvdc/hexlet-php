@@ -11,5 +11,7 @@
             "Igor\\HexletPhp\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
