@@ -7,9 +7,9 @@
 	    }
     ],
     "autoload": {
-        "psr-4": {
-            "Igor\\HexletPhp\\": "src/"
-        }
+        "files": [
+            "src/Runner.php"
+	]
     },
     "require": {
         "tightenco/collect": "^8.34"
